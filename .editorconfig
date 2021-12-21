@@ -1,0 +1,14 @@
+root = true
+
+# Setup common options
+[*]
+indent_style = tab
+charset = utf8
+trim_trailing_whitespace = true
+insert_final_newline = true
+end_of_line = crlf
+
+# Markdown files
+[*.md]
+indent_style = space
+trim_trailing_whitespace = false

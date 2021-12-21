@@ -1,0 +1,8 @@
+{
+  "printWidth": 100,
+  "arrowParens": "always",
+  "proseWrap": "preserve",
+  "jsxBracketSameLine": true,
+  "trailingComma": "none",
+  "useTabs": false
+}
